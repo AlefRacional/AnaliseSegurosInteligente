@@ -1,0 +1,6 @@
+Policy ID;Client Name;Client Type;Policy Date;Product;Premium;Profit;Region
+H001;Catalina Araya;Individual;01/02/2023;Health Insurance;120000;36000;Metropolitana
+H002;Rodrigo Fernández;Individual;15/03/2023;Dental Insurance;90000;30000;Atacama
+H003;Clínica Andes Ltda.;Business;25/04/2023;Group Insurance;800000;200000;Coquimbo
+H004;Paula Vega;Individual;10/05/2023;Health Insurance;150000;45000;Maule
+H005;Salud Total S.A.;Business;30/06/2023;Group Insurance;1200000;300000;Antofagasta

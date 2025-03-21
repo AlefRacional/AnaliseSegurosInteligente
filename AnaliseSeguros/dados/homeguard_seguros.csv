@@ -1,0 +1,6 @@
+Policy ID;Client Name;Client Type;Policy Date;Product;Premium;Profit;Region
+HG001;Ana Muñoz;Individual;20/01/2023;Home Insurance;250000;75000;Metropolitana
+HG002;Felipe Riquelme;Individual;05/03/2023;Home Insurance;280000;84000;Valparaíso
+HG003;Inmobiliaria Los Andes;Business;15/04/2023;Property Insurance;900000;180000;Los Ríos
+HG004;Beatriz Navarro;Individual;18/05/2023;Home Insurance;300000;90000;Maule
+HG005;Constructora Pacífico;Business;22/06/2023;Property Insurance;1500000;300000;Biobío

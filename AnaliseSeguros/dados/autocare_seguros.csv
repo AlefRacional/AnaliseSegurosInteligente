@@ -1,0 +1,6 @@
+Policy ID;Client Name;Client Type;Policy Date;Product;Premium;Profit;Region
+A001;Juan Pérez;Individual;15/01/2023;Auto Insurance;150000;45000;Metropolitana
+A002;María González;Business;20/02/2023;Fleet Insurance;450000;90000;Valparaíso
+A003;Empresa XYZ Ltda.;Business;10/03/2023;Auto Insurance;200000;60000;Biobío
+A004;Pedro Morales;Individual;05/04/2023;Auto Insurance;180000;50000;Araucanía
+A005;Transportes del Sur;Business;22/05/2023;Fleet Insurance;600000;120000;Los Lagos
